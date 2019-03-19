@@ -1,3 +1,5 @@
+package com.tictactoe;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -20,7 +22,7 @@ public class Main {
         return;
       }
     }
-    System.out.println("Game draw");
+    System.out.println("com.tictactoe.Game draw");
   }
 
   public static void main(String[] args) {
